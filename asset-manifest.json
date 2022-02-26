@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hecatius/ex1-signets.git/static/css/main.75e596db.css",
+    "main.js": "/Hecatius/ex1-signets.git/static/js/main.00ad2e40.js",
+    "index.html": "/Hecatius/ex1-signets.git/index.html",
+    "main.75e596db.css.map": "/Hecatius/ex1-signets.git/static/css/main.75e596db.css.map",
+    "main.00ad2e40.js.map": "/Hecatius/ex1-signets.git/static/js/main.00ad2e40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75e596db.css",
+    "static/js/main.00ad2e40.js"
+  ]
+}
