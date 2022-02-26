@@ -1,0 +1,16 @@
+.Entete{
+    nav{
+        display: flex;
+        justify-content: space-between;
+        background-color: black;
+        color: white;
+        div{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        p{
+            padding: 1rem;
+        }
+    }
+}

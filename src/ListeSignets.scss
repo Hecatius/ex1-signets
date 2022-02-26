@@ -1,0 +1,14 @@
+.ListeSignets{
+    display: flex;
+    align-content: space-around;
+    text-align: center;
+    justify-content: center;
+    ;
+    div{
+        margin: auto;
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+        justify-content: center;
+    }
+}

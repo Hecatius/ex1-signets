@@ -1,0 +1,11 @@
+.App{
+    svg{
+        cursor: pointer;
+    }
+    position: relative;
+    >button{
+        position: fixed;
+        right: 20px;
+        bottom: 10px;
+    }
+}

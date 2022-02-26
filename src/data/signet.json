@@ -1,0 +1,45 @@
+[
+    {
+        "id": "sig0001",
+        "titre": "Mushoku Tensei",
+        "couleur": "#fff7e4",
+        "couleur_texte":"black",
+        "date_modification": "1 avril 2020"
+    },
+    {
+        "id": "sig0002",
+        "titre": "Nier Automata",
+        "couleur": "#171717",
+        "couleur_texte":"white",
+        "date_modification": "10 mai 2021"
+    },
+    {
+        "id": "sig0003",
+        "titre": "Gurren Lagann",
+        "couleur": "#31e569",
+        "couleur_texte":"black",
+        "date_modification": "12 Janvier 2022"
+    },
+    {
+        "id": "sig0004",
+        "titre": "Monogatari Series",
+        "couleur": "#ee037c",
+        "couleur_texte":"white",
+        "date_modification": "23 février 2022"
+    },
+    {
+        "id": "sig0005",
+        "titre": "Promare",
+        "couleur": "#BA0000",
+        "couleur_texte":"white",
+        "date_modification": "23 février 2022"
+    },
+    {
+        "id": "sig0006",
+        "titre": "Re:Zero",
+        "couleur": "#796bae",
+        "couleur_texte":"black",
+        "date_modification": "23 février 2022"
+    }
+    
+]
